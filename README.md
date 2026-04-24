@@ -19,5 +19,5 @@ For software usage details, see `Software/README.md`.
 
 Suggested citation sentence:
 
-> To facilitate reproducibility and future benchmarking, the sensor array hardware schematics and the baseline LM solver implementation are publicly available at `https://github.com/Username/Repository`.
+> To facilitate reproducibility and future benchmarking, the sensor array hardware schematics and the baseline LM solver implementation are publicly available at `https://github.com/ShenMiaozhang/sensor-array-hardware-lm-baseline`.
 
